@@ -1,0 +1,10 @@
+.playWindow {
+    display: flex;
+}
+
+.leftContent {}
+
+.rightContent {
+    border: 1px solid red;
+    flex: 1;
+}
